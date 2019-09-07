@@ -20,7 +20,7 @@ It should look something like this:
 1. Name:
   * _Chaojie_ __Zhang__
 2. Favorite color: 
-  * <u>Black</u>
+  * <ins>Black</ins>
 3. Link to my GitHub repo:
   * [https://github.com/NYUMachineLearning/hw0-ChaojieZhang-cz.git](https://github.com/NYUMachineLearning/hw0-ChaojieZhang-cz.git)  
 
